@@ -1,0 +1,14 @@
+
+> redux@0.1.0 dev C:\Users\Miguel B\Desktop\NEXT REACT\redux - AUTH
+> next dev --webpack "--port" "3005"
+
+▲ Next.js 16.2.7 (webpack)
+- Local:         http://localhost:3005
+- Network:       http://192.168.1.19:3005
+- Environments: .env.local
+✓ Ready in 1389ms
+
+○ Compiling / ...
+ GET / 200 in 12.6s (next.js: 12.1s, application-code: 586ms)
+[?25h
+ ELIFECYCLE  Command failed with exit code 4294967295.
